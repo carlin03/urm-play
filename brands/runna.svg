@@ -1,0 +1,4 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="runna">
+  <rect width="64" height="64" rx="8" fill="#5b4cff"/>
+  <path d="M16 46 V26 L32 16 L48 26 V46" fill="none" stroke="#fff" stroke-width="4"/><path d="M24 46 V34 h16 v12" fill="none" stroke="#c7d2fe" stroke-width="3"/>
+</svg>
